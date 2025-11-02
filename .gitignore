@@ -1,0 +1,11 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files (if opened on Mac)
+.DS_Store
+
+# Temporary files created by editors
+*.tmp
+*.bak
+*~
